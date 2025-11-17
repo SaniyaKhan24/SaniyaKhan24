@@ -1,6 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Dream Decoder — an AI-driven platform that interprets user-typed dreams using NLP, sentiment analysis, and deep-learning models.<br>It decodes symbols, emotions, and patterns to generate personalized interpretations, backed by a secure login and an integrated dream journal. I’m building the full pipeline from UX to ML workflows.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Projects that blend AI, ML, Data Science and user-centric design — especially anything involving NLP, emotion recognition, or creative ML applications.<br><br>🤝 I’m looking for help with<br>Optimizing deep-learning models for better text understanding and designing scalable backend workflows for real-time analysis.<br><br>🌱 I’m currently learning<br>Advanced NLP techniques, multimodal deep-learning, cloud deployment (AWS), and building production-ready AI systems.<br><br>💬 Ask me about<br>AI projects, clean UI/UX workflows,  building full-stack ML apps, or anything involving product design.<br><br>⚡ Fun fact<br>I break down neural networks by day and decode dreams by night—somewhere between logic and poetry, that’s where I build.
+# About Me
+I’m an AI & Data Science engineer who loves building intuitive, human-centric systems. I work across ML, NLP, deep learning, and full-stack development — blending clean engineering with thoughtful design.
 
+## What I Do
+- Build end-to-end AI/ML pipelines  
+- Create clean, user-focused interfaces  
+- Develop scalable backend systems  
+- Experiment with NLP, emotion recognition, and creative ML  
+
+## Currently Exploring
+Advanced NLP, multimodal deep learning, scalable backend workflows, and AWS deployment.
+
+## Ask Me About
+AI projects, ML workflows, UI/UX, system design, and building practical full-stack AI products.
+
+## Fun Fact
+Somewhere between logic and poetry — that’s where I build.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/glitbyte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniyakhan24/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saaniiya_khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saniiya_Khan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC6NBQZXamEIXR9HLozKkCHA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saniyajkhan24@gmail.com) 
@@ -20,8 +34,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaniyaKhan24&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SaniyaKhan24&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
