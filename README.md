@@ -1,36 +1,37 @@
 <h1 align="center">Hey, I'm Saniya Khan 👋</h1>
 <p align="center">AI Engineer • Full-Stack Developer • Creative Technologist</p>
-<p align="center">Where logic meets poetry — I build systems that think, feel, and help.</p>
+<p align="center">Where logic meets me — I build systems that think, feel, and help.</p>
 
 <p align="center">
  <a href="https://saniyakhan.vercel.app" target="_blank">
-   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" />
+   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
  </a>
 
  <a href="mailto:saniyajkhan24@gmail.com" target="_blank">
-   <img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
+   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
 
  <a href="https://www.instagram.com/glitbyte" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" />
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
 
  <a href="https://www.linkedin.com/in/saniyakhan24/" target="_blank">
-   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
+   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
  <a href="https://pinterest.com/saaniiya_khan" target="_blank">
-   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-000?style=for-the-badge&logo=Pinterest&logoColor=E60023" />
+   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
  </a>
 
  <a href="https://x.com/Saniiya_Khan" target="_blank">
-   <img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" />
+   <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
  </a>
 
  <a href="https://youtube.com/@UC6NBQZXamEIXR9HLozKkCHA" target="_blank">
-   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000" />
+   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
  </a>
 </p>
+
 
 ---
 
