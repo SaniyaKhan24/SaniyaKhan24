@@ -174,13 +174,6 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ---
 
-## Contribution
-<p align="center">
-  <img src="https://github.com/SaniyaKhan24/SaniyaKhan24/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
 ## Profile Visitor Count  
 <p align="center">
   <img src="https://visitcountpro.netlify.app/api?id=SaniyaKhan24&pretty=true" />
