@@ -139,30 +139,31 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ---
 
-## GitHub Stats  
+
+## GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaniyaKhan24&theme=jolly&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaniyaKhan24&show_icons=true&theme=jolly&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaKhan24&theme=jolly&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaKhan24&layout=compact&theme=jolly&langs_count=8&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streaks  
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SaniyaKhan24&theme=jolly" />
+  <img src="https://streak-stats.demolab.com?user=SaniyaKhan24&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaniyaKhan24&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaniyaKhan24&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
