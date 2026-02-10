@@ -153,7 +153,7 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streaks  
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SaniyaKhan24&theme=jolly" />
 </p>
