@@ -142,14 +142,14 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ## GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaniyaKhan24&show_icons=true&theme=jolly&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaniyaKhan24&show_icons=true&theme=jolly" />
 </p>
 
 ---
 
 ## Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaKhan24&layout=compact&theme=jolly&langs_count=8&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaniyaKhan24&layout=compact&theme=jolly" />
 </p>
 
 ---
