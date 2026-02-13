@@ -139,24 +139,34 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics  
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaniyaKhan24&theme=radical&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaniyaKhan24&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-## Top Languages
+---
+
+# Top Languages  
+
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaniyaKhan24&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak  
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaniyaKhan24&theme=radical&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaniyaKhan24&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaniyaKhan24&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 
