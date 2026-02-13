@@ -141,14 +141,14 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ## GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaniyaKhan24&show_icons=true&theme=jolly&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaniyaKhan24&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
 </p>
 
 ---
 
 ## Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaniyaKhan24&layout=compact&theme=jolly&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaKhan24&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" />
 </p>
 
 ---
@@ -162,7 +162,7 @@ SaaS system for ESG reporting, sustainability tracking & compliance dashboards.
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaniyaKhan24&theme=jolly&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaniyaKhan24&theme=discord&no-frame=true&margin-w=10" />
 </p>
 
 
